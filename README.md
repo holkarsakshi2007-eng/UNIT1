@@ -10,21 +10,21 @@ Unit-1
 
 Program:-
 
-1.Basic Data Types 
+      1.Basic Data Types 
 
-2.if-else 
+      2.if-else 
 
-3.Loop and Array
+      3.Loop and Array
 
-4. Functions
+      4.Functions
 
-5. Class and Object
+      5.Class and Object
 
-6. Constructor and Destructor
+      6.Constructor and Destructor
 
-7.  Static Member
+      7.Static Member
 
-8.  Inline and Friend Function
+      8.Inline and Friend Function
 
 
 
