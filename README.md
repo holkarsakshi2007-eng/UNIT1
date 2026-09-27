@@ -26,13 +26,13 @@ Program:-
 
 8.  Inline and Friend Function
 
-# 🚀 C++ Object-Oriented Programming (OOP) Journey
+
 
 Welcome to my C++ repository! This collection documents my hands-on practice and implementation of C++ fundamentals, progressing all the way through advanced Object-Oriented Programming principles. 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The repository is organized progressively to build a strong foundation in C++ before diving into core OOP paradigms:
 
@@ -49,7 +49,7 @@ The repository is organized progressively to build a strong foundation in C++ be
 
 ---
 
-## 💡 Highlights & Key Concepts Learned
+## Key Concepts 
 
 * **Procedural to Object-Oriented Shift:** Transitioning from traditional control flows (loops and conditions) to designing autonomous, encapsulated classes and objects.
 * **Memory & Lifecycle Management:** Understanding how objects are instantiated, how constructors initialize states, and how destructors prevent resource leaks.
@@ -61,4 +61,4 @@ The repository is organized progressively to build a strong foundation in C++ be
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone [https://github.com/holkarsakshi2007-eng/UNIT1.git](https://github.com/holkarsakshi2007-eng/UNIT1.git)
